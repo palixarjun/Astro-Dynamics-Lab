@@ -64,6 +64,14 @@ Different Types of Integrators used in Rebound n-body simulation
 ![Section 5 Output](/Decorative-Elements/MD-Files/Output-05-a.png)
 ---
 
+### Section 6: More Applications
+- Space Mission Trajectory Planning
+- Collision and Impact Theory
+- Chaos and Stability Analysis
+
+![Section 5 Output](/Decorative-Elements/MD-Files/Output-06.png)
+---
+
 ## Project Directory Structure
 <pre>
 Astro-Dynamics-Lab/ 
@@ -94,12 +102,16 @@ Astro-Dynamics-Lab/
 │   ├── 04-JANUS-Integrator.ipynb
 │   ├── 05-MERCURIUS-Integrator.ipynb
 │   └── 06-SEI-Integrator.ipynb
-└── 05. Applications/
-    ├── 01-Tidal-Effects.ipynb
-    ├── 02-Planet-Packing.ipynb
-    ├── 03-Resonance-Effect.ipynb
-    ├── 04-Study-of-Saturn-Rings.ipynb
-    └── 05-Black-Hole-Formation.ipynb
+├── 05. Applications/
+│   ├── 01-Tidal-Effects.ipynb
+│   ├── 02-Planet-Packing.ipynb
+│   ├── 03-Resonance-Effect.ipynb
+│   ├── 04-Study-of-Saturn-Ring.ipynb
+│   ├── 05-Black-Hole-Formatio.ipynb
+└── 06. More-Applications/
+    ├── 01-Space-Mission-Trajectory-Planning.ipynb
+    ├── 02-Collision-and-Impact-Theory.ipynb
+    └── 03-Chaos-and-Stability-Analysis.ipynb
 </pre>
 
 ---
