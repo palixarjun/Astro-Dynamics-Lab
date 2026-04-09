@@ -107,7 +107,7 @@ Astro-Dynamics-Lab/
 │   ├── 02-Planet-Packing.ipynb
 │   ├── 03-Resonance-Effect.ipynb
 │   ├── 04-Study-of-Saturn-Ring.ipynb
-│   ├── 05-Black-Hole-Formatio.ipynb
+│   ├── 05-Black-Hole-Formation.ipynb
 └── 06. More-Applications/
     ├── 01-Space-Mission-Trajectory-Planning.ipynb
     ├── 02-Collision-and-Impact-Theory.ipynb
